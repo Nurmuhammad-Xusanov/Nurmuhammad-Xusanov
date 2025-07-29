@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22093447/nurmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22093447/nurmuhammad" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22093447/nurmuhammad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22093447/nurmuhammad" height="30" width="40" /></a>
 <a href="https://instagram.com/nismo_xn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nismo_xn" height="30" width="40" /></a>
 </p>
 
