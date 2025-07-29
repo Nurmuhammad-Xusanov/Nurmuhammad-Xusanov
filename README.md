@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Nurmuhammad</h1>
 
+<h2 align="left">I code with</h2>
 
+###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
@@ -24,7 +26,10 @@
   <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
 </div>
 
-######
+
+<h2 align="left">You can contact me on</h2>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nurmuhammad-xusanov-11165a377/" target="_blank">
@@ -46,5 +51,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
 </div>
-
-
