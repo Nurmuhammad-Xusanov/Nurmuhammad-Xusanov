@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nurmuhammad</h1>
-<h3 align="center">A passionate developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurmuhammad-xusanov&label=Profile%20views&color=0e75b6&style=flat" alt="nurmuhammad-xusanov" /> </p>
 
-- 🔭 I’m currently working on [ChatApp laravel](https://github.com/Nurmuhammad-Xusanov/ChatApp-Laravel.git)
 
-- 🌱 I’m currently learning **Php and Laravel 12**
+<div align="center">
+  <a  href="https://archlinux.org/" target="blank">
+      <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+      <img width="12" />
+  </a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nurmuhammad-Xusanov](https://github.com/Nurmuhammad-Xusanov)
-
-- 📝 I regularly write articles on [https://t.me/nismo_xn](https://t.me/nismo_xn)
-
-- 💬 Ask me about **ReactJS, PHP and Linux**
-
-- 📫 How to reach me **nursherzil@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/Nurmuhammad-Xusanov](https://github.com/Nurmuhammad-Xusanov)
-
-- ⚡ Fun fact **I love trying new technologies and things)**
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
