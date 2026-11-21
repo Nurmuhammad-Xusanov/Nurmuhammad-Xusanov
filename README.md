@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nurmuhammad Khusanov
+# Nurmukhammad Khusanov
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&lines=Aspiring+Computer+Science+%26+Engineering+Student;Embedded+Systems+%26+Microcontroller+Firmware;Linux+Kernel+Event+Handling+%26+Wayland+Architecture;Full-Stack+Systems+%26+Software+Engineer">
@@ -83,7 +83,7 @@ I am a self-directed software and embedded systems developer preparing for under
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=false">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=000000&text_color=444444&icon_color=000000&hide_border=false">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=false" alt="Nurmuhammad's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=false" alt="Nurmukhammad's GitHub Stats" />
 </picture>
 
 <picture>
