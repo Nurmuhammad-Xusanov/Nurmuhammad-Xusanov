@@ -1,53 +1,101 @@
-<h1 align="center">Hi, I'm Nurmuhammad</h1>
-
-<h2 align="left">I code with</h2>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
-  <img width="4" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+
+# Nurmuhammad Khusanov
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&lines=Aspiring+Computer+Science+%26+Engineering+Student;Embedded+Systems+%26+Microcontroller+Firmware;Linux+Kernel+Event+Handling+%26+Wayland+Architecture;Full-Stack+Systems+%26+Software+Engineer">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=000000&background=00000000&center=true&vCenter=true&width=620&lines=Aspiring+Computer+Science+%26+Engineering+Student;Embedded+Systems+%26+Microcontroller+Firmware;Linux+Kernel+Event+Handling+%26+Wayland+Architecture;Full-Stack+Systems+%26+Software+Engineer">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=620&lines=Aspiring+Computer+Science+%26+Engineering+Student;Embedded+Systems+%26+Microcontroller+Firmware;Linux+Kernel+Event+Handling+%26+Wayland+Architecture;Full-Stack+Systems+%26+Software+Engineer" />
+</picture>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhammad-xusanov-11165a377/)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nismo_xn)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nursherzil@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/957277731782012968)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NurmuhammadXus1)
+
 </div>
 
+---
 
-<h2 align="left">You can contact me on</h2>
+### About Me
 
-###
+I am a self-directed software and embedded systems developer preparing for undergraduate studies in **Computer Science and Computer Engineering**. My work spans low-level hardware integration, operating system internals, Linux Wayland desktop environments, and full-stack software development.
+
+- **Embedded Systems & Robotics**: Interfacing microcontrollers (AVR/Arduino, STM32, ESP32) with sensor buses, wireless transceivers (NRF24L01), and hardware peripherals.
+- **Systems & Linux Architecture**: Writing kernel WMI event detectors, custom display managers with GTK3/Python, and hardware digitizer calibration for convertibles and multi-display setups.
+- **Academic Focus**: Low-level systems programming, computer architecture, real-time operating systems (RTOS), and distributed software design.
+
+---
+
+### Technical Competencies
+
+<table>
+  <tr>
+    <td width="25%"><b>Low-Level & Languages</b></td>
+    <td>C, C++, Python, Lua, Shell (Bash/POSIX), JavaScript, TypeScript</td>
+  </tr>
+  <tr>
+    <td><b>Hardware & Embedded</b></td>
+    <td>Arduino, PlatformIO, NRF24L01 RF, I2C, SPI, UART, WMI event handling, Sensor Fusion</td>
+  </tr>
+  <tr>
+    <td><b>Systems & Environments</b></td>
+    <td>Linux (Arch Linux / Omarchy), Wayland / Hyprland internals, GTK3/4, uinput, QML</td>
+  </tr>
+  <tr>
+    <td><b>Web & Software</b></td>
+    <td>React, Next.js, Node.js, Express, REST APIs, Git, GitHub Actions</td>
+  </tr>
+</table>
+
+---
+
+### Selected Projects
+
+#### [steerduino](https://github.com/Nurmuhammad-Xusanov/steerduino)
+*Embedded Hardware & Telemetry System (C++, Python, Arduino)*
+- Engineered a force-feedback and steering telemetry controller interfacing an Arduino microcontroller with a host system (PXN V10 Ultra integration).
+- Implemented real-time serial protocol decoding and input event mapping.
+
+#### [dotfiles & Display Architecture](https://github.com/Nurmuhammad-Xusanov/dotfiles)
+*Linux Systems Programming & Wayland Desktop Environment (Python, Lua, Bash, QML)*
+- Built native Python/GTK3 display utilities (`display-manager.py` and `display-switcher-popup.py`) supporting dynamic multi-monitor layout, refresh rate negotiation, and OLED 10-bit color pipelines.
+- Integrated Linux kernel WMI event listeners (`hp_wmi`) for convertible fold detection, automatically switching input digitizer states between clamshell and stylus/tablet modes.
+- Designed dual minimalist monochrome themes (**Vantablack** `#000000` & **White** `#ffffff`) with automated cross-application palette synchronization hooks.
+
+#### [M86-tool](https://github.com/Nurmuhammad-Xusanov/M86-tool)
+*Automotive ECU Diagnostics & Interface (Python)*
+- Built an automotive diagnostic and flashing utility supporting OBD-II and UDS communications across vehicle control units.
+
+#### [pdfreader](https://github.com/Nurmuhammad-Xusanov/pdfreader)
+*Desktop Document Utility (Python, GTK/Qt)*
+- Developed a fast document reader with native desktop integration, optimized for touchscreen gesture navigation and reading modes.
+
+---
+
+### Engineering Analytics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nurmuhammad-xusanov-11165a377/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/NurmuhammadXus1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discord.com/users/957277731782012968" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://t.me/nismo_xn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/nismo_xn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://dev.to/nurmuhammad1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=ffffff&border_color=e1e4e8&title_color=000000&text_color=444444&icon_color=000000&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nurmuhammad-Xusanov&show_icons=true&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&icon_color=ffffff&hide_border=false" alt="Nurmuhammad's GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad-Xusanov&layout=compact&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&hide_border=false">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad-Xusanov&layout=compact&bg_color=ffffff&border_color=e1e4e8&title_color=000000&text_color=444444&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurmuhammad-Xusanov&layout=compact&bg_color=000000&border_color=222222&title_color=ffffff&text_color=cccccc&hide_border=false" alt="Top Languages" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Pure Vantablack & Crisp White Monochrome Architecture • Designed for Academic & Engineering Portfolios</sub>
 </div>
