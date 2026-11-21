@@ -53,6 +53,15 @@ I am a self-directed software and embedded systems developer preparing for under
 
 ---
 
+### Honors & Academic Achievements
+
+- 🥉 **3rd Place (Bronze Medal)** — Uzbekistan National Robotics Competition *(Republican Stage)*
+- 🥇 **5× Regional Champion (1st Place)** — Syrdarya Regional Robotics & Technology Championship
+- 🌐 **IELTS Academic**: **Overall Band 7.0 (CEFR C1)** *(Listening: 8.5 | Reading: 7.0)*
+- 📜 **Certified AI Competency**: **Five Million AI Leaders Initiative** *(Joint effort by UAE Government, Dubai Future Foundation & Ministry of Digital Technologies of Uzbekistan)*
+
+---
+
 ### Selected Projects
 
 #### [steerduino](https://github.com/Nurmuhammad-Xusanov/steerduino)
