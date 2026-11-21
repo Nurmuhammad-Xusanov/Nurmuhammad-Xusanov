@@ -69,6 +69,11 @@ I am a self-directed software and embedded systems developer preparing for under
 - Engineered a force-feedback and steering telemetry controller interfacing an Arduino microcontroller with a host system (PXN V10 Ultra integration).
 - Implemented real-time serial protocol decoding and input event mapping.
 
+#### [Automotive ECU Binary Analysis Notes](https://github.com/Nurmuhammad-Xusanov/automotive-ecu-binary-analysis-notes)
+*Embedded Reverse Engineering & Memory Architecture Research*
+- Compiled technical methodology on bare-metal firmware static analysis, TriCore ISA disassembly, and memory map discovery (vector table heuristics and flash segmentation).
+- Documented automotive UDS protocol dispatcher structures, look-up table axis descriptors, and integrity checksum routines.
+
 #### [dotfiles & Display Architecture](https://github.com/Nurmuhammad-Xusanov/dotfiles)
 *Linux Systems Programming & Wayland Desktop Environment (Python, Lua, Bash, QML)*
 - Built native Python/GTK3 display utilities (`display-manager.py` and `display-switcher-popup.py`) supporting dynamic multi-monitor layout, refresh rate negotiation, and OLED 10-bit color pipelines.
